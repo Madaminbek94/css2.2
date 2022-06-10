@@ -1,0 +1,17 @@
+body{
+    background-image: url(/foo/bg1.jpg);
+    background-size: cover;
+}
+h1{
+    color: red;
+    text-align: center;
+}
+.box{
+    background-color: wheat;
+    margin: 40px 200px;
+    border-radius: 10px;
+    background-color: ;
+}
+h3{
+    text-align: center;
+}
